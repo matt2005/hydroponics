@@ -26,3 +26,16 @@
 1x [Electro-conductivity sensor](https://hackaday.io/project/7008-fly-wars-a-hackers-solution-to-world-hunger/log/24646-three-dollar-ec-ppm-meter-arduino)
 
 1x pH sensor
+
+
+# Propagation
+
+3x 5 litre bucket
+
+1x [Gardman Bell Cloche - Medium 3 Pack (pack of 3) Code:09156](https://www.gardman.co.uk/growing/grow-your-own/cloches-plant-protection/bell-cloche-medium-3.html)
+
+?x net pots
+
+?x plastic takeaway tubs
+
+10 litre vermiculite
