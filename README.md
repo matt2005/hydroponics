@@ -1,6 +1,5 @@
 # Aeroponics
 
-
 | Quantity        | Item           | Supplier  | Price|
 | ------------- |:-------------:| -----:|-----:|
 | 1      | Ikea VÄXER Cultivation insert set 303.187.28 | Ikea | £3.50|
@@ -14,7 +13,6 @@
 | 1      | Air compressor pressure value and gauges | Ebay | ?|
 | 1      | high pressure 12v Pump | Ebay | ?|
 
-
 # Hydroponic monitoring
 
 1x DHT22 (temperature + humidity)
@@ -26,7 +24,6 @@
 1x [Electro-conductivity sensor](https://hackaday.io/project/7008-fly-wars-a-hackers-solution-to-world-hunger/log/24646-three-dollar-ec-ppm-meter-arduino)
 
 1x pH sensor
-
 
 # Propagation
 
